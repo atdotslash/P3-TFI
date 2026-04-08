@@ -16,10 +16,15 @@ Este proyecto es el **Trabajo Final Integrador** para la Tecnicatura Universitar
 
 ## 🛠️ Tecnologías
 >**Entorno de Ejecución:** Node.js
+>
 >**Framework:** Express.js
+>
 >**Base de Datos:** MySQL con soporte para Transacciones y Stored Procedures
+>
 >**Autenticación:** JSON Web Tokens (JWT) con autorización basada en roles (Admin, Médico, Paciente)
+>
 >**Documentación:** Swagger
+>
 >**Otras Librerías:** `express-validator` (validaciones), `morgan` (logs), `multer` (archivos), `dotenv` (variables de entorno)
 
 ## 🏗️ Estructura del Proyecto
