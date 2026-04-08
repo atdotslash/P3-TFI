@@ -1,5 +1,5 @@
-# Sistema de Gestión de Clínica Médica
-## TFI Programación III
+## Sistema de Gestión de Clínica Médica
+# TFI Programación III
 
 ##👥 Grupo AI
 
@@ -16,13 +16,20 @@ Este proyecto es el **Trabajo Final Integrador** para la Tecnicatura Universitar
 
 ## 🛠️ Tecnologías
 **Entorno de Ejecución:** Node.js
+
 **Framework:** Express.js
+
 **Base de Datos:** MySQL con soporte para Transacciones y Stored Procedures
+
 **Autenticación:** JSON Web Tokens (JWT) con autorización basada en roles (Admin, Médico, Paciente)
+
 **Documentación:** Swagger
+
 **Otras Librerías:** `express-validator` (validaciones), `morgan` (logs), `multer` (archivos), `dotenv` (variables de entorno)
 
+
 ## 🏗️ Estructura del Proyecto
+
 ```text
 ├── src/
 │   ├── config/         # Configuración de DB y variables de entorno
@@ -36,8 +43,9 @@ Este proyecto es el **Trabajo Final Integrador** para la Tecnicatura Universitar
 ├── docs/               # Documentación Swagger
 ├── database/           # Scripts SQL y Stored Procedures
 └── .env                # Variables sensibles
+```
 
-**Requisito:** Node.js versión 18 o superior.
+## 📋 **Requisito:** Node.js versión 18 o superior.
 Verificar con: `node --version`
 
 ## 📄 Licencia
