@@ -1,5 +1,5 @@
 # Sistema de Gestión de Clínica Médica
-# TFI Programación III
+## TFI Programación III
 
 ##👥 Grupo AI
 
@@ -15,12 +15,12 @@
 Este proyecto es el **Trabajo Final Integrador** para la Tecnicatura Universitaria en Desarrollo Web (UNER). Consiste en una API REST robusta diseñada para gestionar el flujo de turnos, médicos y pacientes de una clínica, integrando seguridad mediante JWT, persistencia en MySQL y comunicación de reglas de negocio complejas.
 
 ## 🛠️ Tecnologías
-**Entorno de Ejecución:** Node.js
-**Framework:** Express.js
-**Base de Datos:** MySQL con soporte para Transacciones y Stored Procedures
-**Autenticación:** JSON Web Tokens (JWT) con autorización basada en roles (Admin, Médico, Paciente)
-**Documentación:** Swagger
-**Otras Librerías:** `express-validator` (validaciones), `morgan` (logs), `multer` (archivos), `dotenv` (variables de entorno)
+>**Entorno de Ejecución:** Node.js
+>**Framework:** Express.js
+>**Base de Datos:** MySQL con soporte para Transacciones y Stored Procedures
+>**Autenticación:** JSON Web Tokens (JWT) con autorización basada en roles (Admin, Médico, Paciente)
+>**Documentación:** Swagger
+>**Otras Librerías:** `express-validator` (validaciones), `morgan` (logs), `multer` (archivos), `dotenv` (variables de entorno)
 
 ## 🏗️ Estructura del Proyecto
 ```text
@@ -41,4 +41,4 @@ Este proyecto es el **Trabajo Final Integrador** para la Tecnicatura Universitar
 > Verificar con: `node --version`
 
 ## 📄 Licencia
-Proyecto académico — Programación III · 2026
+Proyecto Académico - Programación III - TUDW - FCAD UNER - 2026
