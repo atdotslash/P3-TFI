@@ -1,4 +1,13 @@
-# Sistema de Gestión de Clínica Médica - TFI Programación III
+# Sistema de Gestión de Clínica Médica
+# TFI Programación III
+
+##👥 Grupo AI
+Nombre y Apellido
+1	Belardita Horacio Daniel
+2	Berón Tomás Manuel
+3	Leiva Enzo
+4	Ortega Sergio
+5	Sandoval Edgardo
 
 ## 📋 Descripción del Proyecto
 Este proyecto es el **Trabajo Final Integrador** para la Tecnicatura Universitaria en Desarrollo Web (UNER). Consiste en una API REST robusta diseñada para gestionar el flujo de turnos, médicos y pacientes de una clínica, integrando seguridad mediante JWT, persistencia en MySQL y comunicación de reglas de negocio complejas.
